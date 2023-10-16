@@ -1,0 +1,15 @@
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\bin\Debug\net7.0\Csharp-Shift-Operator-2.exe
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\bin\Debug\net7.0\Csharp-Shift-Operator-2.deps.json
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\bin\Debug\net7.0\Csharp-Shift-Operator-2.runtimeconfig.json
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\bin\Debug\net7.0\Csharp-Shift-Operator-2.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\bin\Debug\net7.0\Csharp-Shift-Operator-2.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\Csharp-Shift-Operator-2.csproj.AssemblyReference.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\Csharp-Shift-Operator-2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\Csharp-Shift-Operator-2.AssemblyInfoInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\Csharp-Shift-Operator-2.AssemblyInfo.cs
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\Csharp-Shift-Operator-2.csproj.CoreCompileInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\Csharp-Shift-Operator-2.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\refint\Csharp-Shift-Operator-2.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\Csharp-Shift-Operator-2.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\Csharp-Shift-Operator-2.genruntimeconfig.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Shift-Operator-2\obj\Debug\net7.0\ref\Csharp-Shift-Operator-2.dll

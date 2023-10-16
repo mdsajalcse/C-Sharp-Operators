@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Math-Operators", "CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Bitwise complement operator ~", "CSharp-Bitwise complement operator ~\CSharp-Bitwise complement operator ~.csproj", "{B0DEED67-01AA-43A3-9B2E-2072C9EF835E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Shift-operators", "CSharp-Shift-operators\CSharp-Shift-operators.csproj", "{B38C7A60-DB3C-4E13-8E85-0822331A1BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Shift-Operator-2", "Csharp-Shift-Operator-2\Csharp-Shift-Operator-2.csproj", "{37E98FAC-CED4-4C7A-8F28-44F5A329814C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Logical-Operators", "Csharp-Logical-Operators\Csharp-Logical-Operators.csproj", "{371CA8F4-2092-421A-A2E1-F28D83F8F354}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{B0DEED67-01AA-43A3-9B2E-2072C9EF835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0DEED67-01AA-43A3-9B2E-2072C9EF835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0DEED67-01AA-43A3-9B2E-2072C9EF835E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38C7A60-DB3C-4E13-8E85-0822331A1BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38C7A60-DB3C-4E13-8E85-0822331A1BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38C7A60-DB3C-4E13-8E85-0822331A1BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38C7A60-DB3C-4E13-8E85-0822331A1BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E98FAC-CED4-4C7A-8F28-44F5A329814C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E98FAC-CED4-4C7A-8F28-44F5A329814C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E98FAC-CED4-4C7A-8F28-44F5A329814C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E98FAC-CED4-4C7A-8F28-44F5A329814C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{371CA8F4-2092-421A-A2E1-F28D83F8F354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371CA8F4-2092-421A-A2E1-F28D83F8F354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371CA8F4-2092-421A-A2E1-F28D83F8F354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371CA8F4-2092-421A-A2E1-F28D83F8F354}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

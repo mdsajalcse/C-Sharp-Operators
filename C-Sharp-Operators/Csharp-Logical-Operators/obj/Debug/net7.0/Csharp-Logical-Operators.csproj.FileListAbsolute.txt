@@ -1,0 +1,15 @@
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\bin\Debug\net7.0\Csharp-Logical-Operators.exe
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\bin\Debug\net7.0\Csharp-Logical-Operators.deps.json
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\bin\Debug\net7.0\Csharp-Logical-Operators.runtimeconfig.json
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\bin\Debug\net7.0\Csharp-Logical-Operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\bin\Debug\net7.0\Csharp-Logical-Operators.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\Csharp-Logical-Operators.csproj.AssemblyReference.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\Csharp-Logical-Operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\Csharp-Logical-Operators.AssemblyInfoInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\Csharp-Logical-Operators.AssemblyInfo.cs
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\Csharp-Logical-Operators.csproj.CoreCompileInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\Csharp-Logical-Operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\refint\Csharp-Logical-Operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\Csharp-Logical-Operators.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\Csharp-Logical-Operators.genruntimeconfig.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\Csharp-Logical-Operators\obj\Debug\net7.0\ref\Csharp-Logical-Operators.dll
