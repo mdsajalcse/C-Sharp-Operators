@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C-Sharp-Operators\\C-Sharp-Operators\\C-Sharp-Operators\\C-Sharp-Increment-Decrement-Operators.csproj",
-      "projectName": "C-Sharp-Increment-Decrement-Operators",
-      "projectPath": "F:\\C-Sharp-Operators\\C-Sharp-Operators\\C-Sharp-Operators\\C-Sharp-Increment-Decrement-Operators.csproj",
+      "projectUniqueName": "F:\\C-Sharp-Operators\\C-Sharp-Operators\\CSharp-Math-Operators\\CSharp-Math-Operators.csproj",
+      "projectName": "CSharp-Math-Operators",
+      "projectPath": "F:\\C-Sharp-Operators\\C-Sharp-Operators\\CSharp-Math-Operators\\CSharp-Math-Operators.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\C-Sharp-Operators\\C-Sharp-Operators\\C-Sharp-Operators\\obj\\",
+      "outputPath": "F:\\C-Sharp-Operators\\C-Sharp-Operators\\CSharp-Math-Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

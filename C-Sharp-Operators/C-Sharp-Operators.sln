@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp-Operators", "C-Sharp-Operators\C-Sharp-Operators.csproj", "{3791A81E-D721-460E-8C49-550487DBA672}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp-Increment-Decrement-Operators", "C-Sharp-Operators\C-Sharp-Increment-Decrement-Operators.csproj", "{3791A81E-D721-460E-8C49-550487DBA672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Unary plus and minus operators", "CSharp-Unary plus and minus operators\CSharp-Unary plus and minus operators.csproj", "{463F2A39-2D05-4E0B-884B-FA9D0BB386C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Math-Operators", "CSharp-Math-Operators\CSharp-Math-Operators.csproj", "{0D2964B1-F71B-4305-82BE-865CB2AC153D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3791A81E-D721-460E-8C49-550487DBA672}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3791A81E-D721-460E-8C49-550487DBA672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3791A81E-D721-460E-8C49-550487DBA672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463F2A39-2D05-4E0B-884B-FA9D0BB386C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463F2A39-2D05-4E0B-884B-FA9D0BB386C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463F2A39-2D05-4E0B-884B-FA9D0BB386C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463F2A39-2D05-4E0B-884B-FA9D0BB386C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2964B1-F71B-4305-82BE-865CB2AC153D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2964B1-F71B-4305-82BE-865CB2AC153D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2964B1-F71B-4305-82BE-865CB2AC153D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2964B1-F71B-4305-82BE-865CB2AC153D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

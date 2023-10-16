@@ -1,0 +1,15 @@
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\bin\Debug\net7.0\C-Sharp-Operators.exe
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\bin\Debug\net7.0\C-Sharp-Operators.deps.json
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\bin\Debug\net7.0\C-Sharp-Operators.runtimeconfig.json
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\bin\Debug\net7.0\C-Sharp-Operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\bin\Debug\net7.0\C-Sharp-Operators.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\C-Sharp-Operators.csproj.AssemblyReference.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\C-Sharp-Operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\C-Sharp-Operators.AssemblyInfoInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\C-Sharp-Operators.AssemblyInfo.cs
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\C-Sharp-Operators.csproj.CoreCompileInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\C-Sharp-Operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\refint\C-Sharp-Operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\C-Sharp-Operators.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\C-Sharp-Operators.genruntimeconfig.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\C-Sharp-Operators\obj\Debug\net7.0\ref\C-Sharp-Operators.dll

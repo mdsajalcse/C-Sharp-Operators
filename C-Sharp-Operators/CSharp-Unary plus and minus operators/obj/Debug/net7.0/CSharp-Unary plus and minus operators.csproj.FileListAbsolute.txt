@@ -1,0 +1,15 @@
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\bin\Debug\net7.0\CSharp-Unary plus and minus operators.exe
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\bin\Debug\net7.0\CSharp-Unary plus and minus operators.deps.json
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\bin\Debug\net7.0\CSharp-Unary plus and minus operators.runtimeconfig.json
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\bin\Debug\net7.0\CSharp-Unary plus and minus operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\bin\Debug\net7.0\CSharp-Unary plus and minus operators.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\CSharp-Unary plus and minus operators.csproj.AssemblyReference.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\CSharp-Unary plus and minus operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\CSharp-Unary plus and minus operators.AssemblyInfoInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\CSharp-Unary plus and minus operators.AssemblyInfo.cs
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\CSharp-Unary plus and minus operators.csproj.CoreCompileInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\CSharp-Unary plus and minus operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\refint\CSharp-Unary plus and minus operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\CSharp-Unary plus and minus operators.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\CSharp-Unary plus and minus operators.genruntimeconfig.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Unary plus and minus operators\obj\Debug\net7.0\ref\CSharp-Unary plus and minus operators.dll

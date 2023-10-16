@@ -1,0 +1,15 @@
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\CSharp-Math-Operators.csproj.AssemblyReference.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\CSharp-Math-Operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\CSharp-Math-Operators.AssemblyInfoInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\CSharp-Math-Operators.AssemblyInfo.cs
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\CSharp-Math-Operators.csproj.CoreCompileInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\bin\Debug\net7.0\CSharp-Math-Operators.exe
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\bin\Debug\net7.0\CSharp-Math-Operators.deps.json
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\bin\Debug\net7.0\CSharp-Math-Operators.runtimeconfig.json
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\bin\Debug\net7.0\CSharp-Math-Operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\bin\Debug\net7.0\CSharp-Math-Operators.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\CSharp-Math-Operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\refint\CSharp-Math-Operators.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\CSharp-Math-Operators.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\CSharp-Math-Operators.genruntimeconfig.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Math-Operators\obj\Debug\net7.0\ref\CSharp-Math-Operators.dll
