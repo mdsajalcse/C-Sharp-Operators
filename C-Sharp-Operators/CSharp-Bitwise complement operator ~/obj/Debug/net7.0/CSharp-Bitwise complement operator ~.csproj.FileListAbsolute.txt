@@ -1,0 +1,15 @@
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\bin\Debug\net7.0\CSharp-Bitwise complement operator ~.exe
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\bin\Debug\net7.0\CSharp-Bitwise complement operator ~.deps.json
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\bin\Debug\net7.0\CSharp-Bitwise complement operator ~.runtimeconfig.json
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\bin\Debug\net7.0\CSharp-Bitwise complement operator ~.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\bin\Debug\net7.0\CSharp-Bitwise complement operator ~.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\CSharp-Bitwise complement operator ~.csproj.AssemblyReference.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\CSharp-Bitwise complement operator ~.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\CSharp-Bitwise complement operator ~.AssemblyInfoInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\CSharp-Bitwise complement operator ~.AssemblyInfo.cs
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\CSharp-Bitwise complement operator ~.csproj.CoreCompileInputs.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\CSharp-Bitwise complement operator ~.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\refint\CSharp-Bitwise complement operator ~.dll
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\CSharp-Bitwise complement operator ~.pdb
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\CSharp-Bitwise complement operator ~.genruntimeconfig.cache
+F:\C-Sharp-Operators\C-Sharp-Operators\CSharp-Bitwise complement operator ~\obj\Debug\net7.0\ref\CSharp-Bitwise complement operator ~.dll
